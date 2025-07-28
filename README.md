@@ -1,6 +1,6 @@
 # LearningGit_SCC
 
 
-dowdjfedkvnkfjEksvmdVMSLFVO
+dowdjfedkvnkfjEksvmdVMSLFVO today is Monday
 
-today is Monday
+
